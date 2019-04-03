@@ -1,0 +1,2 @@
+Install the following pip file from cmd to getstarted with the project
+ $ pip install virtualenv
